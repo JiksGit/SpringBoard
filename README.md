@@ -24,5 +24,5 @@
 <img width="1364" alt="image" src="https://github.com/JiksGit/SpringBoard/assets/96871403/4067bd60-7fc4-4dc0-a84d-34ee9ccc9202">
 
 -------------
-#### 5. 게시판 검색 기능
+#### 5. 게시판 검색 기능
 <img width="1419" alt="image" src="https://github.com/JiksGit/SpringBoard/assets/96871403/f5212deb-e1ae-4c41-b938-d02b8ff12e39">
